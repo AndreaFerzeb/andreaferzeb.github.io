@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2? family= Roboto:ital,wght@0,400;0,900;1,100;1,900 & display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background:black;
+}
+main div.contenedor {
+  width: 1080px;
+  margin: 0px;
+ 
+}
+main div {
+  display: flex;
+  justify-content: space-evenly;
+}
+ul{
+  color: rgb(200, 197, 197);
+  font-size: 48px;
+  list-style-type: none;
+} 
+  
+
+  
+    /**
+    Esto es un comentario dentro de un documento CSS
+    */
+
+
+   
+    #mi_parrafo {
+
+        color: rgb(26, 27, 27);
+        font-size: 23px;
+        border: 1px solid rgb(255, 165, 0);
+
+      }
+
+      .estaesmiclase {
+
+        font-weight: bold;
+        color: lightblue;
+      }
+
+      section h1 {
+
+        font-weight: 400px;
+     }
+
