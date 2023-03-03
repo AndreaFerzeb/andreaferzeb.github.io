@@ -1,6 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2? family= Roboto:ital,wght@0,400;0,900;1,100;1,900 & display=swap');
 
+
 a{
   text-decoration: none;
 }
@@ -19,44 +20,44 @@ div.contenedor {
 }
 main div.contenedor {
   display: inherit;
- justify-content: space-evenly;
+  justify-content: space-evenly;
   
 }
 
  main {
-  padding-top: 8em;
-  padding-bottom: 8em;
+   padding-top: 8em;
+   padding-bottom: 8em;
 } 
-    /**
-    Esto es un comentario dentro de un documento CSS
-    */
+  
+/**
+   Datos de presentación
+ */
 
 
    
 #demo {
 
-        color: rgb(243, 43, 43);
-        font-size: 50px;
+     color: rgb(243, 43, 43);
+     font-size: 50px;
         
 }
 
 #Minombrees {
 
-        color: rgb(218, 238, 238);
-        font-size: 50px;
+     color: rgb(218, 238, 238);
+     font-size: 50px;
         
 }
 
 #Andrea {
 
-        color: rgb(218, 238, 238);
-        font-size: 50px;
+      color: rgb(218, 238, 238);
+      font-size: 50px;
         
 }
 
 main image {
       width: 40%;
-
      
 }
     
